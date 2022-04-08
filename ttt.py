@@ -1,7 +1,7 @@
 from flask import Flask
 
 
-app = Flask(__ttt.py__)
+app = Flask(__ttt__)
 
 
 @app.route('/')
